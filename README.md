@@ -19,7 +19,7 @@ outputs:
 example... int:1, char:s, string:hello, hexa:F
 
 ```
-### Instalation
+### Installation
 
 1- Clone this repo.
 
